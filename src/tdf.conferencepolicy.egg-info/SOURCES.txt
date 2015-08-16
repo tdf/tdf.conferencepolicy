@@ -1,0 +1,17 @@
+README.txt
+setup.cfg
+setup.py
+src/tdf/__init__.py
+src/tdf.conferencepolicy.egg-info/PKG-INFO
+src/tdf.conferencepolicy.egg-info/SOURCES.txt
+src/tdf.conferencepolicy.egg-info/dependency_links.txt
+src/tdf.conferencepolicy.egg-info/entry_points.txt
+src/tdf.conferencepolicy.egg-info/namespace_packages.txt
+src/tdf.conferencepolicy.egg-info/not-zip-safe
+src/tdf.conferencepolicy.egg-info/paster_plugins.txt
+src/tdf.conferencepolicy.egg-info/requires.txt
+src/tdf.conferencepolicy.egg-info/top_level.txt
+src/tdf/conferencepolicy/__init__.py
+src/tdf/conferencepolicy/testing.py
+src/tdf/conferencepolicy/tests/__init__.py
+src/tdf/conferencepolicy/tests/test_example.py
